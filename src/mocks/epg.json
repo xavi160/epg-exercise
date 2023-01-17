@@ -1,0 +1,1439 @@
+[
+  {
+    "id": "ard",
+    "title": "Das Erste",
+    "images": {
+      "LOGO": "https://demo-test.noriginmedia.com/ard@logo.png"
+    },
+    "schedules": [
+      {
+        "id": "dummy_program_id",
+        "title": "ARD-buffet2",
+        "start": 1673867700000,
+        "end": 1673870400000
+      },
+      {
+        "id": "dummy_program_id",
+        "title": "Middagsmagasinet",
+        "start": 1673870400000,
+        "end": 1673874000000
+      },
+      {
+        "id": "dummy_program_id",
+        "title": "Nyheder",
+        "start": 1673874000000,
+        "end": 1673874600000
+      },
+      {
+        "id": "dummy_program_id",
+        "title": "Røde roser",
+        "start": 1673874600000,
+        "end": 1673877600000
+      },
+      {
+        "id": "dummy_program_id",
+        "title": "Nyheder",
+        "start": 1673877600000,
+        "end": 1673878200000
+      },
+      {
+        "id": "dummy_program_id",
+        "title": "Kærlighedens storm",
+        "start": 1673878200000,
+        "end": 1673881200000
+      },
+      {
+        "id": "dummy_program_id",
+        "title": "Nyheder",
+        "start": 1673881200000,
+        "end": 1673881800000
+      },
+      {
+        "id": "dummy_program_id",
+        "title": "Vild med havet",
+        "start": 1673881800000,
+        "end": 1673884800000
+      },
+      {
+        "id": "dummy_program_id",
+        "title": "Nyheder",
+        "start": 1673884800000,
+        "end": 1673885700000
+      },
+      {
+        "id": "dummy_program_id",
+        "title": "Brisant",
+        "start": 1673885700000,
+        "end": 1673888400000
+      },
+      {
+        "id": "dummy_program_id",
+        "title": "Jagten på svarene",
+        "start": 1673888400000,
+        "end": 1673891400000
+      },
+      {
+        "id": "dummy_program_id",
+        "title": "Mord i nord",
+        "start": 1673891400000,
+        "end": 1673894700000
+      },
+      {
+        "id": "dummy_program_id",
+        "title": "Viden før otte - fremtid",
+        "start": 1673894700000,
+        "end": 1673895000000
+      },
+      {
+        "id": "dummy_program_id",
+        "title": "Vejret før otte",
+        "start": 1673895000000,
+        "end": 1673895300000
+      },
+      {
+        "id": "dummy_program_id",
+        "title": "Finans før otte",
+        "start": 1673895300000,
+        "end": 1673895600000
+      },
+      {
+        "id": "dummy_program_id",
+        "title": "Nyheder",
+        "start": 1673895600000,
+        "end": 1673896500000
+      },
+      {
+        "id": "dummy_program_id",
+        "title": "Pas på forbrugerfælderne!",
+        "start": 1673896500000,
+        "end": 1673899200000
+      },
+      {
+        "id": "dummy_program_id",
+        "title": "Hård, men fair",
+        "start": 1673899200000,
+        "end": 1673903700000
+      },
+      {
+        "id": "dummy_program_id",
+        "title": "Nyheder",
+        "start": 1673903700000,
+        "end": 1673905500000
+      },
+      {
+        "id": "dummy_program_id",
+        "title": "Angela Merkel",
+        "start": 1673905500000,
+        "end": 1673824500000
+      },
+      {
+        "id": "dummy_program_id",
+        "title": "Nyheder",
+        "start": 1673824500000,
+        "end": 1673825700000
+      },
+      {
+        "id": "dummy_program_id",
+        "title": "Gerningsstedet",
+        "start": 1673825700000,
+        "end": 1673831280000
+      },
+      {
+        "id": "dummy_program_id",
+        "title": "Nyheder",
+        "start": 1673831280000,
+        "end": 1673831400000
+      },
+      {
+        "id": "dummy_program_id",
+        "title": "Hård, men fair",
+        "start": 1673831400000,
+        "end": 1673835900000
+      },
+      {
+        "id": "dummy_program_id",
+        "title": "Brisant",
+        "start": 1673835900000,
+        "end": 1673837880000
+      },
+      {
+        "id": "dummy_program_id",
+        "title": "Nyheder",
+        "start": 1673837880000,
+        "end": 1673838000000
+      },
+      {
+        "id": "dummy_program_id",
+        "title": "Angela Merkel",
+        "start": 1673838000000,
+        "end": 1673843400000
+      },
+      {
+        "id": "dummy_program_id",
+        "title": "Morgenmagasinet",
+        "start": 1673843400000,
+        "end": 1673856000000
+      }
+    ]
+  },
+  {
+    "id": "zdf",
+    "title": "ZDF",
+    "images": {
+      "LOGO": "https://demo-test.noriginmedia.com/zdf@logo.png"
+    },
+    "schedules": [
+      {
+        "id": "dummy_program_id",
+        "title": "Tyskland rundt",
+        "start": 1673867400000,
+        "end": 1673870400000
+      },
+      {
+        "id": "dummy_program_id",
+        "title": "Middagsmagasinet",
+        "start": 1673870400000,
+        "end": 1673874000000
+      },
+      {
+        "id": "dummy_program_id",
+        "title": "Nyheder",
+        "start": 1673874000000,
+        "end": 1673874900000
+      },
+      {
+        "id": "dummy_program_id",
+        "title": "Kokkeduellen",
+        "start": 1673874900000,
+        "end": 1673877600000
+      },
+      {
+        "id": "dummy_program_id",
+        "title": "Nyheder",
+        "start": 1673877600000,
+        "end": 1673877900000
+      },
+      {
+        "id": "dummy_program_id",
+        "title": "Guld fra gemmerne",
+        "start": 1673877900000,
+        "end": 1673881200000
+      },
+      {
+        "id": "dummy_program_id",
+        "title": "Nyheder",
+        "start": 1673881200000,
+        "end": 1673881800000
+      },
+      {
+        "id": "dummy_program_id",
+        "title": "Politidistrikt Kitzbühel",
+        "start": 1673881800000,
+        "end": 1673884800000
+      },
+      {
+        "id": "dummy_program_id",
+        "title": "Nyheder",
+        "start": 1673884800000,
+        "end": 1673885400000
+      },
+      {
+        "id": "dummy_program_id",
+        "title": "Hallo, Tyskland!",
+        "start": 1673885400000,
+        "end": 1673887500000
+      },
+      {
+        "id": "dummy_program_id",
+        "title": "Stjernedrys - nyt om de kendte",
+        "start": 1673887500000,
+        "end": 1673888400000
+      },
+      {
+        "id": "dummy_program_id",
+        "title": "Politidistrikt München",
+        "start": 1673888400000,
+        "end": 1673892000000
+      },
+      {
+        "id": "dummy_program_id",
+        "title": "Nyheder",
+        "start": 1673892000000,
+        "end": 1673893200000
+      },
+      {
+        "id": "dummy_program_id",
+        "title": "Vejret",
+        "start": 1673893200000,
+        "end": 1673893500000
+      },
+      {
+        "id": "dummy_program_id",
+        "title": "WISO - nyt om økonomiske og sociale emner",
+        "start": 1673893500000,
+        "end": 1673896500000
+      },
+      {
+        "id": "dummy_program_id",
+        "title": "Den kvindelige glaspuster",
+        "start": 1673896500000,
+        "end": 1673901900000
+      },
+      {
+        "id": "dummy_program_id",
+        "title": "Nyheder",
+        "start": 1673901900000,
+        "end": 1673903700000
+      },
+      {
+        "id": "dummy_program_id",
+        "title": "Red",
+        "start": 1673903700000,
+        "end": 1673909700000
+      },
+      {
+        "id": "dummy_program_id",
+        "title": "Nyheder",
+        "start": 1673909700000,
+        "end": 1673824200000
+      },
+      {
+        "id": "dummy_program_id",
+        "title": "Eksamen",
+        "start": 1673824200000,
+        "end": 1673829900000
+      },
+      {
+        "id": "dummy_program_id",
+        "title": "ZDF-historie",
+        "start": 1673829900000,
+        "end": 1673832600000
+      },
+      {
+        "id": "dummy_program_id",
+        "title": "Politidistrikt München",
+        "start": 1673832600000,
+        "end": 1673835300000
+      },
+      {
+        "id": "dummy_program_id",
+        "title": "WISO - nyt om økonomiske og sociale emner",
+        "start": 1673835300000,
+        "end": 1673838000000
+      },
+      {
+        "id": "dummy_program_id",
+        "title": "Politidistrikt Kitzbühel",
+        "start": 1673838000000,
+        "end": 1673840700000
+      },
+      {
+        "id": "dummy_program_id",
+        "title": "Stjernedrys - nyt om de kendte",
+        "start": 1673840700000,
+        "end": 1673841300000
+      },
+      {
+        "id": "dummy_program_id",
+        "title": "Hallo, Tyskland!",
+        "start": 1673841300000,
+        "end": 1673843400000
+      },
+      {
+        "id": "dummy_program_id",
+        "title": "Morgenmagasinet",
+        "start": 1673843400000,
+        "end": 1673856000000
+      }
+    ]
+  },
+  {
+    "id": "eurosport-de",
+    "title": "Eurosport 1",
+    "images": {
+      "LOGO": "https://demo-test.noriginmedia.com/eurosport-de@logo.png"
+    },
+    "schedules": [
+      {
+        "id": "dummy_program_id",
+        "title": "Fodbold: Champions League-lodtrækning, direkte",
+        "start": 1673866800000,
+        "end": 1673868600000
+      },
+      {
+        "id": "dummy_program_id",
+        "title": "Sportsugen, der gik",
+        "start": 1673868600000,
+        "end": 1673869500000
+      },
+      {
+        "id": "dummy_program_id",
+        "title": "Sportsugen, der gik",
+        "start": 1673869500000,
+        "end": 1673870400000
+      },
+      {
+        "id": "dummy_program_id",
+        "title": "Fodbold: Europa League-lodtrækning, direkte",
+        "start": 1673870400000,
+        "end": 1673872200000
+      },
+      {
+        "id": "dummy_program_id",
+        "title": "Fodbold: Major League - højdepunkter",
+        "start": 1673872200000,
+        "end": 1673874000000
+      },
+      {
+        "id": "dummy_program_id",
+        "title": "Billard: Snooker - Home Nations Series, direkte",
+        "start": 1673874000000,
+        "end": 1673890200000
+      },
+      {
+        "id": "dummy_program_id",
+        "title": "Hestesportsmagasinet Horse Excellence",
+        "start": 1673890200000,
+        "end": 1673891700000
+      },
+      {
+        "id": "dummy_program_id",
+        "title": "Eurosportnews",
+        "start": 1673891700000,
+        "end": 1673892000000
+      },
+      {
+        "id": "dummy_program_id",
+        "title": "Skiskydning: World Cup - stafet (m)",
+        "start": 1673892000000,
+        "end": 1673895600000
+      },
+      {
+        "id": "dummy_program_id",
+        "title": "Billard: Snooker - Home Nations Series, direkte",
+        "start": 1673895600000,
+        "end": 1673906100000
+      },
+      {
+        "id": "dummy_program_id",
+        "title": "Eurosportnews",
+        "start": 1673906100000,
+        "end": 1673906400000
+      },
+      {
+        "id": "dummy_program_id",
+        "title": "Fodbold: Toronto-Seattle",
+        "start": 1673906400000,
+        "end": 1673823600000
+      },
+      {
+        "id": "dummy_program_id",
+        "title": "Fodbold: FIFA-magasinet",
+        "start": 1673823600000,
+        "end": 1673825400000
+      },
+      {
+        "id": "dummy_program_id",
+        "title": "Fodbold: Major League - højdepunkter",
+        "start": 1673825400000,
+        "end": 1673827200000
+      },
+      {
+        "id": "dummy_program_id",
+        "title": "Sportsugen, der gik",
+        "start": 1673827200000,
+        "end": 1673828100000
+      },
+      {
+        "id": "dummy_program_id",
+        "title": "Sportsugen, der gik",
+        "start": 1673828100000,
+        "end": 1673829000000
+      },
+      {
+        "id": "dummy_program_id",
+        "title": "Billard: Snooker - Home Nations Series",
+        "start": 1673829000000,
+        "end": 1673834400000
+      },
+      {
+        "id": "dummy_program_id",
+        "title": "Cykling: 6-dagesløb",
+        "start": 1673834400000,
+        "end": 1673838000000
+      },
+      {
+        "id": "dummy_program_id",
+        "title": "Kunstskøjteløb: Grand Prix-finale",
+        "start": 1673838000000,
+        "end": 1673841600000
+      },
+      {
+        "id": "dummy_program_id",
+        "title": "Billard: Snooker - Home Nations Series",
+        "start": 1673841600000,
+        "end": 1673847000000
+      },
+      {
+        "id": "dummy_program_id",
+        "title": "Fodbold: Toronto-Seattle",
+        "start": 1673847000000,
+        "end": 1673854200000
+      }
+    ]
+  },
+  {
+    "id": "pro7",
+    "title": "Pro Sieben",
+    "images": {
+      "LOGO": "https://demo-test.noriginmedia.com/pro7@logo.png"
+    },
+    "schedules": [
+      {
+        "id": "dummy_program_id",
+        "title": "How I Met Your Mother",
+        "start": 1673868300000,
+        "end": 1673869800000
+      },
+      {
+        "id": "dummy_program_id",
+        "title": "How I Met Your Mother",
+        "start": 1673869800000,
+        "end": 1673871600000
+      },
+      {
+        "id": "dummy_program_id",
+        "title": "Two and a Half Men",
+        "start": 1673871600000,
+        "end": 1673873400000
+      },
+      {
+        "id": "dummy_program_id",
+        "title": "Two and a Half Men",
+        "start": 1673873400000,
+        "end": 1673874900000
+      },
+      {
+        "id": "dummy_program_id",
+        "title": "Two and a Half Men",
+        "start": 1673874900000,
+        "end": 1673876700000
+      },
+      {
+        "id": "dummy_program_id",
+        "title": "Two and a Half Men",
+        "start": 1673876700000,
+        "end": 1673878200000
+      },
+      {
+        "id": "dummy_program_id",
+        "title": "The Big Bang Theory",
+        "start": 1673878200000,
+        "end": 1673879700000
+      },
+      {
+        "id": "dummy_program_id",
+        "title": "The Big Bang Theory",
+        "start": 1673879700000,
+        "end": 1673881200000
+      },
+      {
+        "id": "dummy_program_id",
+        "title": "The Big Bang Theory",
+        "start": 1673881200000,
+        "end": 1673883000000
+      },
+      {
+        "id": "dummy_program_id",
+        "title": "The Big Bang Theory",
+        "start": 1673883000000,
+        "end": 1673884800000
+      },
+      {
+        "id": "dummy_program_id",
+        "title": "taff",
+        "start": 1673884800000,
+        "end": 1673888400000
+      },
+      {
+        "id": "dummy_program_id",
+        "title": "NEWSTIME",
+        "start": 1673888400000,
+        "end": 1673889000000
+      },
+      {
+        "id": "dummy_program_id",
+        "title": "Die Simpsons",
+        "start": 1673889000000,
+        "end": 1673890800000
+      },
+      {
+        "id": "dummy_program_id",
+        "title": "Die Simpsons",
+        "start": 1673890800000,
+        "end": 1673892300000
+      },
+      {
+        "id": "dummy_program_id",
+        "title": "Galileo",
+        "start": 1673892300000,
+        "end": 1673896500000
+      },
+      {
+        "id": "dummy_program_id",
+        "title": "The Big Bang Theory",
+        "start": 1673896500000,
+        "end": 1673898000000
+      },
+      {
+        "id": "dummy_program_id",
+        "title": "The Big Bang Theory",
+        "start": 1673898000000,
+        "end": 1673899800000
+      },
+      {
+        "id": "dummy_program_id",
+        "title": "The Big Bang Theory",
+        "start": 1673899800000,
+        "end": 1673901600000
+      },
+      {
+        "id": "dummy_program_id",
+        "title": "The Big Bang Theory",
+        "start": 1673901600000,
+        "end": 1673903400000
+      },
+      {
+        "id": "dummy_program_id",
+        "title": "CIRCUS HALLIGALLI Weihnachts-Spezial",
+        "start": 1673903400000,
+        "end": 1673824500000
+      },
+      {
+        "id": "dummy_program_id",
+        "title": "The Big Bang Theory",
+        "start": 1673824500000,
+        "end": 1673826300000
+      },
+      {
+        "id": "dummy_program_id",
+        "title": "The Big Bang Theory",
+        "start": 1673826300000,
+        "end": 1673827800000
+      },
+      {
+        "id": "dummy_program_id",
+        "title": "The Big Bang Theory",
+        "start": 1673827800000,
+        "end": 1673829300000
+      },
+      {
+        "id": "dummy_program_id",
+        "title": "The Big Bang Theory",
+        "start": 1673829300000,
+        "end": 1673830800000
+      },
+      {
+        "id": "dummy_program_id",
+        "title": "Family Guy",
+        "start": 1673830800000,
+        "end": 1673832300000
+      },
+      {
+        "id": "dummy_program_id",
+        "title": "Brickleberry",
+        "start": 1673832300000,
+        "end": 1673833500000
+      },
+      {
+        "id": "dummy_program_id",
+        "title": "ProSieben Spätnachrichten",
+        "start": 1673833500000,
+        "end": 1673833800000
+      },
+      {
+        "id": "dummy_program_id",
+        "title": "My Boys",
+        "start": 1673833800000,
+        "end": 1673835000000
+      },
+      {
+        "id": "dummy_program_id",
+        "title": "My Boys",
+        "start": 1673835000000,
+        "end": 1673836200000
+      },
+      {
+        "id": "dummy_program_id",
+        "title": "Cougar Town",
+        "start": 1673836200000,
+        "end": 1673837700000
+      },
+      {
+        "id": "dummy_program_id",
+        "title": "Malcolm mittendrin",
+        "start": 1673837700000,
+        "end": 1673838900000
+      },
+      {
+        "id": "dummy_program_id",
+        "title": "Malcolm mittendrin",
+        "start": 1673838900000,
+        "end": 1673840400000
+      },
+      {
+        "id": "dummy_program_id",
+        "title": "Scrubs - Die Anfänger",
+        "start": 1673840400000,
+        "end": 1673841600000
+      },
+      {
+        "id": "dummy_program_id",
+        "title": "Mike & Molly",
+        "start": 1673841600000,
+        "end": 1673842500000
+      },
+      {
+        "id": "dummy_program_id",
+        "title": "Mike & Molly",
+        "start": 1673842500000,
+        "end": 1673843700000
+      },
+      {
+        "id": "dummy_program_id",
+        "title": "How I Met Your Mother",
+        "start": 1673843700000,
+        "end": 1673844900000
+      },
+      {
+        "id": "dummy_program_id",
+        "title": "How I Met Your Mother",
+        "start": 1673844900000,
+        "end": 1673846100000
+      },
+      {
+        "id": "dummy_program_id",
+        "title": "How I Met Your Mother",
+        "start": 1673846100000,
+        "end": 1673847900000
+      },
+      {
+        "id": "dummy_program_id",
+        "title": "Two and a Half Men",
+        "start": 1673847900000,
+        "end": 1673849700000
+      },
+      {
+        "id": "dummy_program_id",
+        "title": "Two and a Half Men",
+        "start": 1673849700000,
+        "end": 1673851200000
+      },
+      {
+        "id": "dummy_program_id",
+        "title": "Two and a Half Men",
+        "start": 1673851200000,
+        "end": 1673853000000
+      },
+      {
+        "id": "dummy_program_id",
+        "title": "Two and a Half Men",
+        "start": 1673853000000,
+        "end": 1673854500000
+      }
+    ]
+  },
+  {
+    "id": "arte-hd",
+    "title": "Arte HD",
+    "images": {
+      "LOGO": "https://demo-test.noriginmedia.com/arte-hd@logo.jpg"
+    },
+    "schedules": [
+      {
+        "id": "dummy_program_id",
+        "title": "360°-GEO",
+        "start": 1673866200000,
+        "end": 1673868900000
+      },
+      {
+        "id": "dummy_program_id",
+        "title": "360°-GEO",
+        "start": 1673868900000,
+        "end": 1673871600000
+      },
+      {
+        "id": "dummy_program_id",
+        "title": "Arte journal",
+        "start": 1673871600000,
+        "end": 1673872500000
+      },
+      {
+        "id": "dummy_program_id",
+        "title": "La chambre bleue",
+        "start": 1673872500000,
+        "end": 1673876700000
+      },
+      {
+        "id": "dummy_program_id",
+        "title": "A comme «aardvark»",
+        "start": 1673876700000,
+        "end": 1673879400000
+      },
+      {
+        "id": "dummy_program_id",
+        "title": "Raspoutine",
+        "start": 1673879400000,
+        "end": 1673882700000
+      },
+      {
+        "id": "dummy_program_id",
+        "title": "A la recherche du trésor des Romanov",
+        "start": 1673882700000,
+        "end": 1673886000000
+      },
+      {
+        "id": "dummy_program_id",
+        "title": "X:enius",
+        "start": 1673886000000,
+        "end": 1673887500000
+      },
+      {
+        "id": "dummy_program_id",
+        "title": "Repas de fête",
+        "start": 1673887500000,
+        "end": 1673889300000
+      },
+      {
+        "id": "dummy_program_id",
+        "title": "Oasis urbaines",
+        "start": 1673889300000,
+        "end": 1673892000000
+      },
+      {
+        "id": "dummy_program_id",
+        "title": "Oiseaux migrateurs",
+        "start": 1673892000000,
+        "end": 1673894700000
+      },
+      {
+        "id": "dummy_program_id",
+        "title": "Arte journal",
+        "start": 1673894700000,
+        "end": 1673895900000
+      },
+      {
+        "id": "dummy_program_id",
+        "title": "28 minutes",
+        "start": 1673895900000,
+        "end": 1673898300000
+      },
+      {
+        "id": "dummy_program_id",
+        "title": "Tu mourras moins bête",
+        "start": 1673898300000,
+        "end": 1673898600000
+      },
+      {
+        "id": "dummy_program_id",
+        "title": "Rocco et ses frères",
+        "start": 1673898600000,
+        "end": 1673909100000
+      },
+      {
+        "id": "dummy_program_id",
+        "title": "Alain Delon, cet inconnu",
+        "start": 1673909100000,
+        "end": 1673828100000
+      },
+      {
+        "id": "dummy_program_id",
+        "title": "Trois quarts de lune",
+        "start": 1673828100000,
+        "end": 1673833500000
+      },
+      {
+        "id": "dummy_program_id",
+        "title": "Tom à la ferme",
+        "start": 1673833500000,
+        "end": 1673839500000
+      },
+      {
+        "id": "dummy_program_id",
+        "title": "Fin des programmes",
+        "start": 1673839500000,
+        "end": 1673842800000
+      },
+      {
+        "id": "dummy_program_id",
+        "title": "Rolando Villazón présente les stars de demain",
+        "start": 1673842800000,
+        "end": 1673845500000
+      },
+      {
+        "id": "dummy_program_id",
+        "title": "Vox pop",
+        "start": 1673845500000,
+        "end": 1673847300000
+      },
+      {
+        "id": "dummy_program_id",
+        "title": "Yourope",
+        "start": 1673847300000,
+        "end": 1673848800000
+      },
+      {
+        "id": "dummy_program_id",
+        "title": "Points de repères",
+        "start": 1673848800000,
+        "end": 1673850300000
+      },
+      {
+        "id": "dummy_program_id",
+        "title": "Ratatat",
+        "start": 1673850300000,
+        "end": 1673850900000
+      },
+      {
+        "id": "dummy_program_id",
+        "title": "Arte journal junior",
+        "start": 1673850900000,
+        "end": 1673851500000
+      },
+      {
+        "id": "dummy_program_id",
+        "title": "Nobles demeures de Toscane",
+        "start": 1673851500000,
+        "end": 1673854200000
+      }
+    ]
+  },
+  {
+    "id": "antena3",
+    "title": "Antena 3",
+    "images": {
+      "LOGO": "https://demo-test.noriginmedia.com/antena3@logo.png"
+    },
+    "schedules": [
+      {
+        "id": "dummy_program_id",
+        "title": "Karlos Arguiñano en tu cocina",
+        "start": 1673868000000,
+        "end": 1673869500000
+      },
+      {
+        "id": "dummy_program_id",
+        "title": "La ruleta de la suerte",
+        "start": 1673869500000,
+        "end": 1673874000000
+      },
+      {
+        "id": "dummy_program_id",
+        "title": "Los Simpson",
+        "start": 1673874000000,
+        "end": 1673875800000
+      },
+      {
+        "id": "dummy_program_id",
+        "title": "Los Simpson",
+        "start": 1673875800000,
+        "end": 1673877600000
+      },
+      {
+        "id": "dummy_program_id",
+        "title": "Antena 3 Noticias 1",
+        "start": 1673877600000,
+        "end": 1673880300000
+      },
+      {
+        "id": "dummy_program_id",
+        "title": "Deportes",
+        "start": 1673880300000,
+        "end": 1673881200000
+      },
+      {
+        "id": "dummy_program_id",
+        "title": "Tu tiempo con Roberto Brasero",
+        "start": 1673881200000,
+        "end": 1673883000000
+      },
+      {
+        "id": "dummy_program_id",
+        "title": "Amar es para siempre",
+        "start": 1673883000000,
+        "end": 1673886600000
+      },
+      {
+        "id": "dummy_program_id",
+        "title": "El secreto de Puente Viejo",
+        "start": 1673886600000,
+        "end": 1673891100000
+      },
+      {
+        "id": "dummy_program_id",
+        "title": "¡Ahora caigo!",
+        "start": 1673891100000,
+        "end": 1673895600000
+      },
+      {
+        "id": "dummy_program_id",
+        "title": "¡Boom!",
+        "start": 1673895600000,
+        "end": 1673899200000
+      },
+      {
+        "id": "dummy_program_id",
+        "title": "Antena 3 Noticias 2",
+        "start": 1673899200000,
+        "end": 1673901000000
+      },
+      {
+        "id": "dummy_program_id",
+        "title": "Deportes",
+        "start": 1673901000000,
+        "end": 1673901600000
+      },
+      {
+        "id": "dummy_program_id",
+        "title": "La previsión de las 9",
+        "start": 1673901600000,
+        "end": 1673901900000
+      },
+      {
+        "id": "dummy_program_id",
+        "title": "El hormiguero 3.0",
+        "start": 1673901900000,
+        "end": 1673905200000
+      },
+      {
+        "id": "dummy_program_id",
+        "title": "Mar de plástico",
+        "start": 1673905200000,
+        "end": 1673827200000
+      },
+      {
+        "id": "dummy_program_id",
+        "title": "Pasión peligrosa",
+        "start": 1673827200000,
+        "end": 1673832600000
+      },
+      {
+        "id": "dummy_program_id",
+        "title": "Comprando en casa",
+        "start": 1673832600000,
+        "end": 1673834400000
+      },
+      {
+        "id": "dummy_program_id",
+        "title": "Minutos musicales",
+        "start": 1673834400000,
+        "end": 1673845200000
+      },
+      {
+        "id": "dummy_program_id",
+        "title": "Minutos musicales",
+        "start": 1673845200000,
+        "end": 1673846100000
+      },
+      {
+        "id": "dummy_program_id",
+        "title": "Las noticias de la mañana",
+        "start": 1673846100000,
+        "end": 1673854200000
+      }
+    ]
+  },
+  {
+    "id": "lasexta",
+    "title": "La Sexta",
+    "images": {
+      "LOGO": "https://demo-test.noriginmedia.com/lasexta@logo.png"
+    },
+    "schedules": [
+      {
+        "id": "dummy_program_id",
+        "title": "Al Rojo Vivo",
+        "start": 1673867700000,
+        "end": 1673874000000
+      },
+      {
+        "id": "dummy_program_id",
+        "title": "laSexta Noticias: 1ª edición",
+        "start": 1673874000000,
+        "end": 1673877300000
+      },
+      {
+        "id": "dummy_program_id",
+        "title": "Jugones",
+        "start": 1673877300000,
+        "end": 1673878800000
+      },
+      {
+        "id": "dummy_program_id",
+        "title": "Jugones",
+        "start": 1673878800000,
+        "end": 1673879400000
+      },
+      {
+        "id": "dummy_program_id",
+        "title": "laSexta Meteo",
+        "start": 1673879400000,
+        "end": 1673880300000
+      },
+      {
+        "id": "dummy_program_id",
+        "title": "Zapeando",
+        "start": 1673880300000,
+        "end": 1673885700000
+      },
+      {
+        "id": "dummy_program_id",
+        "title": "Más vale tarde",
+        "start": 1673885700000,
+        "end": 1673895600000
+      },
+      {
+        "id": "dummy_program_id",
+        "title": "laSexta Noticias: 2ª edición",
+        "start": 1673895600000,
+        "end": 1673898300000
+      },
+      {
+        "id": "dummy_program_id",
+        "title": "laSexta Meteo",
+        "start": 1673898300000,
+        "end": 1673899200000
+      },
+      {
+        "id": "dummy_program_id",
+        "title": "laSexta Deportes",
+        "start": 1673899200000,
+        "end": 1673901000000
+      },
+      {
+        "id": "dummy_program_id",
+        "title": "El intermedio",
+        "start": 1673901000000,
+        "end": 1673904600000
+      },
+      {
+        "id": "dummy_program_id",
+        "title": "Shutter Island",
+        "start": 1673904600000,
+        "end": 1673827200000
+      },
+      {
+        "id": "dummy_program_id",
+        "title": "Making of",
+        "start": 1673827200000,
+        "end": 1673829000000
+      },
+      {
+        "id": "dummy_program_id",
+        "title": "Crímenes imperfectos",
+        "start": 1673829000000,
+        "end": 1673833500000
+      },
+      {
+        "id": "dummy_program_id",
+        "title": "Poker Caribbean Adventure",
+        "start": 1673833500000,
+        "end": 1673835000000
+      },
+      {
+        "id": "dummy_program_id",
+        "title": "Comprando en casa",
+        "start": 1673835000000,
+        "end": 1673838600000
+      },
+      {
+        "id": "dummy_program_id",
+        "title": "Canal bingo",
+        "start": 1673838600000,
+        "end": 1673839200000
+      },
+      {
+        "id": "dummy_program_id",
+        "title": "Minutos musicales",
+        "start": 1673839200000,
+        "end": 1673845200000
+      },
+      {
+        "id": "dummy_program_id",
+        "title": "Minutos musicales",
+        "start": 1673845200000,
+        "end": 1673849700000
+      },
+      {
+        "id": "dummy_program_id",
+        "title": "¿Quién vive ahí?",
+        "start": 1673849700000,
+        "end": 1673853000000
+      },
+      {
+        "id": "dummy_program_id",
+        "title": "¿Quién vive ahí?",
+        "start": 1673853000000,
+        "end": 1673856300000
+      }
+    ]
+  },
+  {
+    "id": "24h",
+    "title": "24h",
+    "images": {
+      "LOGO": "https://demo-test.noriginmedia.com/24h@logo.png"
+    },
+    "schedules": [
+      {
+        "id": "dummy_program_id",
+        "title": "La mañana en 24H",
+        "start": 1673859600000,
+        "end": 1673877600000
+      },
+      {
+        "id": "dummy_program_id",
+        "title": "Telediario",
+        "start": 1673877600000,
+        "end": 1673881200000
+      },
+      {
+        "id": "dummy_program_id",
+        "title": "Agrosfera",
+        "start": 1673881200000,
+        "end": 1673883000000
+      },
+      {
+        "id": "dummy_program_id",
+        "title": "España en 24 Horas",
+        "start": 1673883000000,
+        "end": 1673884800000
+      },
+      {
+        "id": "dummy_program_id",
+        "title": "La tarde en 24H",
+        "start": 1673884800000,
+        "end": 1673897400000
+      },
+      {
+        "id": "dummy_program_id",
+        "title": "Teleplaneta",
+        "start": 1673897400000,
+        "end": 1673899200000
+      },
+      {
+        "id": "dummy_program_id",
+        "title": "Telediario 2ª edición",
+        "start": 1673899200000,
+        "end": 1673902800000
+      },
+      {
+        "id": "dummy_program_id",
+        "title": "Zoom net",
+        "start": 1673902800000,
+        "end": 1673904600000
+      },
+      {
+        "id": "dummy_program_id",
+        "title": "La noche en 24 horas",
+        "start": 1673904600000,
+        "end": 1673825400000
+      },
+      {
+        "id": "dummy_program_id",
+        "title": "La tarde en 24H",
+        "start": 1673825400000,
+        "end": 1673827200000
+      },
+      {
+        "id": "dummy_program_id",
+        "title": "Noticias 24H",
+        "start": 1673827200000,
+        "end": 1673829000000
+      },
+      {
+        "id": "dummy_program_id",
+        "title": "La 2 Noticias",
+        "start": 1673829000000,
+        "end": 1673830800000
+      },
+      {
+        "id": "dummy_program_id",
+        "title": "Telediario Internacional",
+        "start": 1673830800000,
+        "end": 1673832600000
+      },
+      {
+        "id": "dummy_program_id",
+        "title": "Noticias 24H",
+        "start": 1673832600000,
+        "end": 1673834400000
+      },
+      {
+        "id": "dummy_program_id",
+        "title": "Telediario Internacional",
+        "start": 1673834400000,
+        "end": 1673836200000
+      },
+      {
+        "id": "dummy_program_id",
+        "title": "Noticias 24H",
+        "start": 1673836200000,
+        "end": 1673838000000
+      },
+      {
+        "id": "dummy_program_id",
+        "title": "Telediario Internacional",
+        "start": 1673838000000,
+        "end": 1673839800000
+      },
+      {
+        "id": "dummy_program_id",
+        "title": "Noticias 24H",
+        "start": 1673839800000,
+        "end": 1673841600000
+      },
+      {
+        "id": "dummy_program_id",
+        "title": "Agrosfera",
+        "start": 1673841600000,
+        "end": 1673845200000
+      },
+      {
+        "id": "dummy_program_id",
+        "title": "Noticias 24H",
+        "start": 1673845200000,
+        "end": 1673847000000
+      },
+      {
+        "id": "dummy_program_id",
+        "title": "Telediario Matinal",
+        "start": 1673847000000,
+        "end": 1673854200000
+      }
+    ]
+  },
+  {
+    "id": "a3series",
+    "title": "A3 Series",
+    "images": {
+      "LOGO": "https://demo-test.noriginmedia.com/a3series@logo.png"
+    },
+    "schedules": [
+      {
+        "id": "dummy_program_id",
+        "title": "El síndrome de Ulises",
+        "start": 1673866800000,
+        "end": 1673873400000
+      },
+      {
+        "id": "dummy_program_id",
+        "title": "Ley y orden",
+        "start": 1673873400000,
+        "end": 1673876700000
+      },
+      {
+        "id": "dummy_program_id",
+        "title": "Bones",
+        "start": 1673876700000,
+        "end": 1673881680000
+      },
+      {
+        "id": "dummy_program_id",
+        "title": "Bones",
+        "start": 1673881680000,
+        "end": 1673883000000
+      },
+      {
+        "id": "dummy_program_id",
+        "title": "El mentalista",
+        "start": 1673883000000,
+        "end": 1673886000000
+      },
+      {
+        "id": "dummy_program_id",
+        "title": "Más de series",
+        "start": 1673886000000,
+        "end": 1673886300000
+      },
+      {
+        "id": "dummy_program_id",
+        "title": "Se ha escrito un crimen",
+        "start": 1673886300000,
+        "end": 1673899200000
+      },
+      {
+        "id": "dummy_program_id",
+        "title": "Allí abajo",
+        "start": 1673899200000,
+        "end": 1673904600000
+      },
+      {
+        "id": "dummy_program_id",
+        "title": "Fiscal Chase",
+        "start": 1673904600000,
+        "end": 1673907780000
+      },
+      {
+        "id": "dummy_program_id",
+        "title": "Fiscal Chase",
+        "start": 1673907780000,
+        "end": 1673824500000
+      },
+      {
+        "id": "dummy_program_id",
+        "title": "Mar de plástico: Tercer grado",
+        "start": 1673824500000,
+        "end": 1673827200000
+      },
+      {
+        "id": "dummy_program_id",
+        "title": "Aquí no hay quien viva",
+        "start": 1673827200000,
+        "end": 1673838900000
+      },
+      {
+        "id": "dummy_program_id",
+        "title": "Star Wars: The Clone Wars",
+        "start": 1673838900000,
+        "end": 1673841300000
+      },
+      {
+        "id": "dummy_program_id",
+        "title": "Más de series",
+        "start": 1673841300000,
+        "end": 1673845200000
+      },
+      {
+        "id": "dummy_program_id",
+        "title": "La familia Mata",
+        "start": 1673845200000,
+        "end": 1673850000000
+      },
+      {
+        "id": "dummy_program_id",
+        "title": "La tira",
+        "start": 1673850000000,
+        "end": 1673851980000
+      },
+      {
+        "id": "dummy_program_id",
+        "title": "La tira",
+        "start": 1673851980000,
+        "end": 1673852760000
+      },
+      {
+        "id": "dummy_program_id",
+        "title": "La tira",
+        "start": 1673852760000,
+        "end": 1673853540000
+      },
+      {
+        "id": "dummy_program_id",
+        "title": "La tira",
+        "start": 1673853540000,
+        "end": 1673854320000
+      }
+    ]
+  }
+]
