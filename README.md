@@ -4,7 +4,7 @@ Since I didn't have the full week data, I reimagined the EPG design using a cust
 
 I've used Vite as dev environment and production bundler. For unit testing I've added Vitest because it comes handy when already using Vite.
 
-This package has this available commands:
+This package has these available commands:
 
 - `npm run start` -> Tweaks the mock api and starts both the API server and the dev environment
 - `npm run start:mock-api` -> Starts the API server
