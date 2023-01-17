@@ -14,7 +14,7 @@ This package has this available commands:
 - `npm run test` -> Uses vitest to run all unit tests
 - `npm run coverage` -> Creates a coverage folder with detailed coverage info for unit tests
 
-## Installation
+## Installation
 
 Run `npm install` to install all dependencies first
 
