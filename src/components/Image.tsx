@@ -8,7 +8,7 @@ const Image: React.FC<ImageProps> = ({ fallback, ...props }) => {
   const [showFallback, setShowFallback] = useState(false);
 
   return showFallback ? (
-    fallback
+    <>{fallback}</>
   ) : (
     <img
       {...props}
