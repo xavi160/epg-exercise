@@ -1,13 +1,14 @@
-import { Suspense } from 'react';
+import React, { Suspense } from 'react';
 import { BrowserRouter as Router, Routes, Route } from 'react-router-dom';
 import { QueryClient, QueryClientProvider } from '@tanstack/react-query';
-import IndexPage from './pages';
 import WebLayout from './components/WebLayout';
 import TVLayout from './components/TVLayout';
-import TVEPGPage from './pages/TVEPG';
-import WebEPGPage from './pages/WebEPG';
 
 const queryClient = new QueryClient();
+
+const IndexPage = React.lazy(() => import('./pages'));
+const WebEPGPage = React.lazy(() => import('./pages/WebEPG'));
+const TVEPGPage = React.lazy(() => import('./pages/TVEPG'));
 
 const App = () => {
   return (
