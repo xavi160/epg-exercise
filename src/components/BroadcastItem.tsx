@@ -14,7 +14,7 @@ export type BroadcastItemProps = {
 
 const BroadcastItem = React.forwardRef<HTMLDivElement, BroadcastItemProps>(
   ({ className, name, start, end, sizeRatio, defaultSelected }, ref) => {
-    const now = new Date().getTime();
+    const now = Date.now();
     const isLive = start <= now && end >= now;
 
     const [showDetails, setShowDetails] = useState<boolean>(false);

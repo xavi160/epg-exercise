@@ -18,7 +18,7 @@ type WebEPGProps = {
 const WebEPG: React.FC<WebEPGProps> = ({ channels, startTime, endTime }) => {
   const ref = useRef<HTMLDivElement>(null);
   const [sizeRatio, setSizeRatio] = useState(DEFAULT_RATIO);
-  const now = new Date().getTime();
+  const now = Date.now();
 
   const scrollToNow = (behavior: 'smooth' | 'auto') => {
     if (ref.current) {

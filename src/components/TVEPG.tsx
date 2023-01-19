@@ -21,7 +21,7 @@ type TVEPGProps = {
 };
 
 const TVEPG: React.FC<TVEPGProps> = ({ channels, startTime, endTime }) => {
-  const now = new Date().getTime();
+  const now = Date.now();
 
   const { ref, focusKey } = useFocusable();
 
@@ -77,7 +77,7 @@ const TVEPG: React.FC<TVEPGProps> = ({ channels, startTime, endTime }) => {
               sizeRatio={DEFAULT_RATIO}
             >
               {channel.schedules.map((schedule) => {
-                const now = new Date().getTime();
+                const now = Date.now();
                 const isLive = schedule.start <= now && schedule.end >= now;
                 return (
                   <FocusableBroadcastItem
